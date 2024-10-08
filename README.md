@@ -3,7 +3,7 @@
 
 Bem-vindo ao **Blend Burger House**, onde a paixão por hambúrgueres artesanais se mistura aos melhores ingredientes e receitas criativas. No nosso site, você encontrará uma seleção especial de hambúrgueres preparados na hora, acompanhamentos crocantes e bebidas refrescantes, tudo pensado para proporcionar uma experiência única.
 
-![Descrição da Imagem](assets/blendburgerhouse.png)
+![site](assets/blendburgerhouse.png)
 
 
 Acesse nosso site: [Blend Burger House](https://blendburgerhouse.thalyson.dev/)
