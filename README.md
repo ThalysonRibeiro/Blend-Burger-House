@@ -14,7 +14,6 @@ Nosso cardápio online oferece várias funcionalidades, permitindo uma navegaç�
 
 - [X] Exibição de cardápio dinâmico
 - [X] Categorias (burgers, bebidas)
-- [X] Integração com plataformas de delivery
 
 ## 🔧 Instalação
 
